@@ -1,0 +1,6 @@
+mysql://b35854f78a276c:ce5575f9@eu-cdbr-west-02.cleardb.net/heroku_d933dd3f20a51de?reconnect=true
+
+
+Access Credentials
+Username:	b35854f78a276c
+Password:	07489fdad63b858(Reset)
